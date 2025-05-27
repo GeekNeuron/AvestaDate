@@ -1,0 +1,53 @@
+{
+  "days_of_week_ancient_persian": [
+    {
+      "id": 1,
+      "name_fa": "مهرشید (روز خورشید)",
+      "name_en": "Mehrshid (Day of the Sun)",
+      "theme_fa": "روز آغازین، نماد نور، پیمان و روشنایی. برگرفته از مهر (ایزد پیمان و فروغ) و شید (خورشید).",
+      "theme_en": "The opening day, symbol of light, covenant, and brightness. Derived from Mehr (Yazata of covenant and radiance) and Shid (Sun)."
+    },
+    {
+      "id": 2,
+      "name_fa": "ماه‌تاب (روز ماه)",
+      "name_en": "Mahtab (Day of the Moon)",
+      "theme_fa": "روز آرامش و درخشش شبانه، نماد زیبایی و رازآلودی. برگرفته از ماه (ایزد ماه).",
+      "theme_en": "Day of tranquility and nocturnal brilliance, symbol of beauty and mystery. Derived from Mah (Yazata of the Moon)."
+    },
+    {
+      "id": 3,
+      "name_fa": "بهرام‌روز (روز پیروزی)",
+      "name_en": "Bahram-ruz (Day of Victory)",
+      "theme_fa": "روز نیرو، دلاوری و پیروزی بر مشکلات. برگرفته از بهرام (ایزد پیروزی).",
+      "theme_en": "Day of strength, valor, and victory over difficulties. Derived from Bahram (Yazata of victory)."
+    },
+    {
+      "id": 4,
+      "name_fa": "تیرداد (روز باران و بخشش)",
+      "name_en": "Tirdad (Day of Rain and Bestowal)",
+      "theme_fa": "روز بارش رحمت، حاصلخیزی و بخشندگی ایزدی. برگرفته از تیر یا تیشتر (ایزد باران).",
+      "theme_en": "Day of merciful rain, fertility, and divine bestowal. Derived from Tir or Tishtrya (Yazata of rain)."
+    },
+    {
+      "id": 5,
+      "name_fa": "هرمزروز (روز پروردگار دانا)",
+      "name_en": "Hormoz-ruz (Day of the Wise Lord)",
+      "theme_fa": "روز خرد، آفرینش و پرستش اهورامزدا. برگرفته از هرمزد یا اهورامزدا (پروردگار دانا).",
+      "theme_en": "Day of wisdom, creation, and worship of Ahura Mazda. Derived from Hormozd or Ahura Mazda (the Wise Lord)."
+    },
+    {
+      "id": 6,
+      "name_fa": "ناهیدروز (روز آب و پاکی)",
+      "name_en": "Nahid-ruz (Day of Water and Purity)",
+      "theme_fa": "روز آب‌های روان، پاکی، باروری و زیبایی. برگرفته از آناهیتا (ایزدبانوی آب‌ها).",
+      "theme_en": "Day of flowing waters, purity, fertility, and beauty. Derived from Anahita (Yazata of waters)."
+    },
+    {
+      "id": 7,
+      "name_fa": "آذرپاد (روز آتش و نگهبانی)",
+      "name_en": "Azarpad (Day of Fire and Protection)",
+      "theme_fa": "روز آتش مقدس، گرما، روشنایی و نگهبانی از خانه و کاشانه. برگرفته از آذر (ایزد آتش).",
+      "theme_en": "Day of sacred fire, warmth, light, and protection of home and hearth. Derived from Azar (Yazata of fire)."
+    }
+  ]
+}
