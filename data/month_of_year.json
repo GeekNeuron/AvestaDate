@@ -1,0 +1,100 @@
+{
+  "months_of_year_ancient_persian": [
+    {
+      "id": 1,
+      "name_fa": "فروردین",
+      "name_en": "Farvardin",
+      "zoroastrian_deity_fa": "فروهرها (روان‌های پاک درگذشتگان و نیروهای نگهبان)",
+      "zoroastrian_deity_en": "Fravashis (righteous souls of the departed and guardian spirits)",
+      "description_fa": "ماه فروهرها، آغاز بهار و جشن نوروز. نماد نوزایی و تجدید حیات."
+    },
+    {
+      "id": 2,
+      "name_fa": "اردیبهشت",
+      "name_en": "Ordibehesht (Asha Vahishta)",
+      "zoroastrian_deity_fa": "اشاوهیشتا یا اردیبهشت (بهترین راستی و پاکی، نظم ایزدی، نگهبان آتش)",
+      "zoroastrian_deity_en": "Asha Vahishta (Best Righteousness, divine order, guardian of fire)",
+      "description_fa": "ماه بهترین راستی و پاکی. نگهبانی از آتش و نظم کیهانی."
+    },
+    {
+      "id": 3,
+      "name_fa": "خرداد",
+      "name_en": "Khordad (Haurvatat)",
+      "zoroastrian_deity_fa": "هئوروتات یا خرداد (رسایی و کمال، نگهبان آب‌ها)",
+      "zoroastrian_deity_en": "Haurvatat (Wholeness, perfection, guardian of waters)",
+      "description_fa": "ماه رسایی، کمال و تندرستی. نگهبانی از آب‌ها و سرسبزی."
+    },
+    {
+      "id": 4,
+      "name_fa": "تیر",
+      "name_en": "Tir (Tishtrya)",
+      "zoroastrian_deity_fa": "تیشتر یا تیر (ایزد باران و باروری، ستاره شباهنگ)",
+      "zoroastrian_deity_en": "Tishtrya (Yazata of rain and fertility, star Sirius)",
+      "description_fa": "ماه ایزد باران و پیروزی بر خشکسالی. جشن تیرگان."
+    },
+    {
+      "id": 5,
+      "name_fa": "امرداد (مرداد)",
+      "name_en": "Amordad / Mordad (Ameretat)",
+      "zoroastrian_deity_fa": "امرتات یا امرداد (بی‌مرگی و جاودانگی، نگهبان گیاهان)",
+      "zoroastrian_deity_en": "Ameretat (Immortality, guardian of plants)",
+      "description_fa": "ماه بی‌مرگی و جاودانگی. نگهبانی از گیاهان و رستنی‌ها."
+    },
+    {
+      "id": 6,
+      "name_fa": "شهریور",
+      "name_en": "Shahrivar (Kshathra Vairya)",
+      "zoroastrian_deity_fa": "خشثرئیریه یا شهریور (شهریاری و پادشاهی مطلوب، نگهبان فلزات)",
+      "zoroastrian_deity_en": "Kshathra Vairya (Desirable Dominion, ideal kingdom, guardian of metals)",
+      "description_fa": "ماه شهریاری و نیروی ایزدی. نگهبانی از فلزات و نماد توانایی."
+    },
+    {
+      "id": 7,
+      "name_fa": "مهر",
+      "name_en": "Mehr (Mithra)",
+      "zoroastrian_deity_fa": "میثره یا مهر (ایزد پیمان، دوستی، فروغ، داور روان‌ها)",
+      "zoroastrian_deity_en": "Mithra (Yazata of covenant, friendship, light, judge of souls)",
+      "description_fa": "ماه ایزد پیمان و مهر. جشن مهرگان، نماد عدالت و برابری."
+    },
+    {
+      "id": 8,
+      "name_fa": "آبان",
+      "name_en": "Aban (Apas/Anahita)",
+      "zoroastrian_deity_fa": "آپ یا آبان (ایزدبانوی آب‌ها، آناهیتا)",
+      "zoroastrian_deity_en": "Apas/Aban (Yazata of waters, Anahita)",
+      "description_fa": "ماه آب‌های پاک و روان. جشن آبانگان."
+    },
+    {
+      "id": 9,
+      "name_fa": "آذر",
+      "name_en": "Azar (Atar)",
+      "zoroastrian_deity_fa": "آتر یا آذر (ایزد آتش مقدس)",
+      "zoroastrian_deity_en": "Atar (Yazata of sacred fire)",
+      "description_fa": "ماه آتش و فروغ ایزدی. جشن آذرگان."
+    },
+    {
+      "id": 10,
+      "name_fa": "دی",
+      "name_en": "Dey (Dathush/Ahura Mazda)",
+      "zoroastrian_deity_fa": "دثوش یا دی (آفریدگار، اهورامزدا)",
+      "zoroastrian_deity_en": "Dathush/Dey (Creator, Ahura Mazda)",
+      "description_fa": "ماه آفریدگار. سه روز از این ماه به نام اهورامزدا است."
+    },
+    {
+      "id": 11,
+      "name_fa": "بهمن",
+      "name_en": "Bahman (Vohu Manah)",
+      "zoroastrian_deity_fa": "وهومنه یا بهمن (منش نیک، اندیشه نیک)",
+      "zoroastrian_deity_en": "Vohu Manah (Good Mind, good thought)",
+      "description_fa": "ماه منش نیک و خرد پاک. جشن بهمنگان."
+    },
+    {
+      "id": 12,
+      "name_fa": "اسفند (سپندارمذ)",
+      "name_en": "Esfand / Spandarmad (Spenta Armaiti)",
+      "zoroastrian_deity_fa": "سپنته آرمیتی یا سپندارمذ (مهر و فروتنی و پارسایی مقدس، ایزدبانوی زمین)",
+      "zoroastrian_deity_en": "Spenta Armaiti (Holy Devotion, humility, piety, Yazata of Earth)",
+      "description_fa": "ماه مهر و فروتنی، ایزدبانوی زمین و زنان. جشن سپندارمذگان (اسفندگان)."
+    }
+  ]
+}
